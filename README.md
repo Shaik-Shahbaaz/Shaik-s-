@@ -67,7 +67,7 @@ My tools for development and analysis:
 ## 📫 Let's Connect
 
 <div align="center">
-  <div align="center"> <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
+  <div align="center"> <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /> </a> </div>
   <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
