@@ -18,11 +18,11 @@
 
 I am a B.Tech CSE student leveraging a strong foundation in programming and problem-solving to build robust applications and perform deep data analysis.
 
-* 🐍 **Python Specialist:** Proficient in C/C++ and Java, with primary focus on Python for development and analytical tasks.
+* 🐍 **Python Specialist:** Proficient in Python and C, with primary focus on Python for development and analytical tasks.
 * 📈 **Insight Hunter:** Experienced with the data stack, including **MySQL** for database management and **Power BI** for compelling data visualization.
 * 🛡️ **Security-Minded:** Designed and implemented a **Unified Authentication System** using Python and MySQL, showcasing practical application development skills.
 * ☁️ **Cloud Familiar:** Completed a workshop on **AWS Cloud Technology**, emphasizing a readiness for scalable and modern solutions.
-* 🎯 **Strengths:** Strong analytical ability, leadership, and excellent verbal and written communication skills (English, Hindi, Telugu).
+* 🎯 **Strengths:**   I'm someone who stays POSTIVE, LEARNS Qucickly, Manage TimeWell & always look for the way to GROW
 
 ---
 
