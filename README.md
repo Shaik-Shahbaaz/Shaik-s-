@@ -84,8 +84,9 @@ My tools for development and analysis:
 
 <div align="center">
   <div align="center"> <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /> </a> </div>
-  <a href="mailto:shaikshahbaaz6362@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="mailto:shaikshahbaaz6362@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+<div align="center"> <a href="https://wa.me/918978320983" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40" /> </a> </div>
 </div>
 
