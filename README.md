@@ -26,11 +26,13 @@ I am a B.Tech CSE Candidate leveraging a strong foundation in programming and pr
 
 
 ---
-##🔖 Projects
+🔖 **Projects**
+**Unified Authentication System**
 <p>
-  Unified Authentication System	
 •	Developed a unified authentication system using graphical passwords and simulated fingerprint     authentication to enhance security in applications. Designed the system to allow users to select images for     password entry and implemented backend using mysql for data storage.
-Early Detection of Alzheimer's Disease	
+  
+**Early Detection of Alzheimer's Disease**
+
 •	A software to detect Alzheimer disease by using MRI images of brain with accuracy. Technologies used : python,TKinter,LENET50,Seaborn
 
 </p>
