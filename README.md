@@ -16,7 +16,7 @@
 
 ## 🚀 About My Work
 
-I am a B.Tech CSE student leveraging a strong foundation in programming and problem-solving to build robust applications and perform deep data analysis.
+I am a B.Tech CSE Candidate leveraging a strong foundation in programming and problem-solving to build robust applications and perform deep data analysis.
 
 * 🐍 **Python Specialist:** Proficient in Python and C, with primary focus on Python for development and analytical tasks.
 * 📈 **Insight Hunter:** Experienced with the data stack, including **MySQL** for database management and **Power BI** for compelling data visualization.
@@ -24,7 +24,16 @@ I am a B.Tech CSE student leveraging a strong foundation in programming and prob
 * ☁️ **Cloud Familiar:** Completed a workshop on **AWS Cloud Technology**, emphasizing a readiness for scalable and modern solutions.
 * 🎯 **Strengths:**   I'm someone who stays POSTIVE, LEARNS Qucickly, Manage TimeWell & always look for the way to GROW
 
+
 ---
+##🔖 Projects
+<p>
+  Unified Authentication System	
+•	Developed a unified authentication system using graphical passwords and simulated fingerprint     authentication to enhance security in applications. Designed the system to allow users to select images for     password entry and implemented backend using mysql for data storage.
+Early Detection of Alzheimer's Disease	
+•	A software to detect Alzheimer disease by using MRI images of brain with accuracy. Technologies used : python,TKinter,LENET50,Seaborn
+
+</p>
 
 ## 🛠️ Skills and Technologies
 
