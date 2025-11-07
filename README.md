@@ -22,20 +22,22 @@ I am a B.Tech CSE Candidate leveraging a strong foundation in programming and pr
 * 📈 **Insight Hunter:** Experienced with the data stack, including **MySQL** for database management and **Power BI** for compelling data visualization.
 * 🛡️ **Security-Minded:** Designed and implemented a **Unified Authentication System** using Python and MySQL, showcasing practical application development skills.
 * ☁️ **Cloud Familiar:** Completed a workshop on **AWS Cloud Technology**, emphasizing a readiness for scalable and modern solutions.
-* 🎯 **Strengths:**   I'm someone who stays POSTIVE, LEARNS Qucickly, Manage TimeWell & always look for the way to GROW
+* 🎯 **Strengths:**      I stay positive, learn quickly, manage time well, and always seek opportunities to grow.
+
 
 
 ---
-🔖 **Projects**
-**Unified Authentication System**
-<p>
-•	Developed a unified authentication system using graphical passwords and simulated fingerprint     authentication to enhance security in applications. Designed the system to allow users to select images for     password entry and implemented backend using mysql for data storage.
-  
-**Early Detection of Alzheimer's Disease**
+🔖<h3> **Projects** <h3>
+### 🛡️ Unified Authentication System
+- Developed a secure login system using graphical passwords and simulated fingerprint authentication.
+- Technologies: Python, MySQL
+- Enhanced user security and experience through image-based password selection.
 
-•	A software to detect Alzheimer disease by using MRI images of brain with accuracy. Technologies used : python,TKinter,LENET50,Seaborn
+### 🧠 Early Detection of Alzheimer's Disease
+- Built a diagnostic tool using MRI brain images to detect Alzheimer’s with high accuracy.
+- Technologies: Python, Tkinter, LeNet-50, Seaborn
+- Applied deep learning for medical image classification and visualization.
 
-</p>
 
 ## 🛠️ Skills and Technologies
 
@@ -57,9 +59,15 @@ My tools for development and analysis:
 
 </div>
 
+<a href="your_resume_link.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+</a>
+
+
 ## 📫 Let's Connect
 
 <div align="center">
+  <div align="center"> <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
   <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -67,3 +75,4 @@ My tools for development and analysis:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
