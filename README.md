@@ -43,8 +43,6 @@ I am a B.Tech CSE Candidate leveraging a strong foundation in programming and pr
 
 My tools for development and analysis:
 
-Absolutely, Shaik Shahbaaz! Here's an enhanced and visually appealing version of your tech stack section with **real-time icons** for key Python frameworks and data tools like **Pandas**, **NumPy**, **Flask**, and **Power BI**, along with your existing technologies:
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -78,7 +76,7 @@ Absolutely, Shaik Shahbaaz! Here's an enhanced and visually appealing version of
 ---
 
 <a href="your_resume_link.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  <img src="" alt="Resume" />
 </a>
 
 
@@ -86,9 +84,6 @@ Absolutely, Shaik Shahbaaz! Here's an enhanced and visually appealing version of
 
 <div align="center">
   <div align="center"> <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /> </a> </div>
-  <a href="https://www.linkedin.com/in/shaik-shahbaaz-3b69132a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:shaikshahbaaz6362@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
